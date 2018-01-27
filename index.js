@@ -1,0 +1,1 @@
+const b = c => c % 2 == 0 ? 'PAR' : 'ÍMPAR'
